@@ -1,13 +1,9 @@
-# 999 PROJECT
+# Asteroids
 
-This is a culmination of projects I have made using lua.
+This uses the LOVE lua framework, to make a asteroids clone.
 
-# <a href="001Asteroids">Asteroids</a>
+To run, download LOVE, and run, in the directory:
 
+```Code
+love .
 ```
-https://simplegametutorials.github.io/love/asteroids/
-https://love2d.org/
-```
-
-Using LÖVE Framework for lua and the simplegametutorials tutorial to make an
-asteroids clone.
