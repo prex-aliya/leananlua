@@ -1,5 +1,7 @@
 # Asteroids
 
+<p align="center" color="color:Tomato"> ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////<br> WARNING: Moved To Own Repository<br> \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ </p>
+
 This uses the LOVE lua framework, to make a asteroids clone.
 
 To run, download LOVE, and run, in the directory:
